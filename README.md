@@ -1,0 +1,2 @@
+# mywiki
+self wiki
